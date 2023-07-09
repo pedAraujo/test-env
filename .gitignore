@@ -5,3 +5,7 @@
 .DS_Store
 .idea
 __pychache__
+/node_modules
+package-lock.json
+/.pnp
+.pnp.js
